@@ -35,3 +35,19 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Additional ignores for project ###
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment files
+.env
